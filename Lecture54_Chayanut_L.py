@@ -2,7 +2,8 @@ def login():
     usernameInput = input("Username : ")
     passwordInput = input("Password : ")
     while usernameInput != "admin" or passwordInput != "1234":
-        return  login()
+        print("Wrong Username or Password try again !!")
+        login()
     else: showMenu()
 
 def showMenu():
