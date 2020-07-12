@@ -10,7 +10,7 @@ def showBill():
 def totalPrice():
     result = 0
     for i in range(len(menuList)):
-         result = result + menuList[i][1]
+         result += menuList[i][1]
     print("Total Price =",result)
 
 while True:
