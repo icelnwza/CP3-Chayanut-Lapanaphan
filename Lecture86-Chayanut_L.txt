@@ -1,0 +1,6 @@
+Name,Movies,Pets
+Ice,Harry Potter,Cat
+Pleng,Doraemon,Dog
+Ink,Yaiba,Birds
+Sakamoto,Micky Mouse,Mouse
+Kojokung,Onepeice,Chicken
