@@ -4,7 +4,7 @@ def login():
     while usernameInput != "admin" or passwordInput != "1234":
         print("Wrong Username or Password try again !!")
         login()
-    else: showMenu()
+    showMenu()
 
 def showMenu():
     print("----- iShop -----")
